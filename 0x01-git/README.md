@@ -1,1 +1,1 @@
-My se cond directory
+My second directory
